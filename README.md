@@ -1,6 +1,8 @@
 # Website AI Analysis Tool
 
 A Streamlit application that analyzes websites and generates detailed AI use case reports using various AI services including Google's Gemini Pro, Tavily, and Serper.
+Explore the Use Case Generator now by clicking the link below:
+👉 [**Use Case Generator App**](https://usecasegenerator.streamlit.app/)
 
 ## Features
 
